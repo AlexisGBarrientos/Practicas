@@ -1,0 +1,27 @@
+body {
+  background: rgb(34,193,195);
+  background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(77,233,75,0.9654236694677871) 100%);
+}
+
+cointainer {
+  width: 80%;
+  height: 100%;
+}
+
+header {
+  text-align: center;
+  background-color: rgb(218, 217, 224);
+}
+
+main {
+  text-align: center;
+  height: 500px;
+  border: 2px black solid;
+}
+
+footer {
+  text-align: center;
+  margin-top: 400px;
+  margin-bottom: 0%;
+
+}
